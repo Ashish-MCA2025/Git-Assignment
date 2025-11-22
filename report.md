@@ -21,3 +21,6 @@ git commit -m "Initial Commit"
  'git log --oneline
  47644e6 (HEAD -> master) Initial Commit
 23826e4 Add README file'
+
+## Task 3: Staging, Diff and Commit Workflow
+Screenshot added to screenshots Folder
