@@ -29,10 +29,4 @@ Screenshot added to screenshots Folder
 'git branch
   feature-x
 * master
-
-git log --online
-e45d208 (HEAD -> master, feature-x) Add feature.txt
-d94cea4 Add new section to READM
-47644e6 Initial Commit
-23826e4 Add README file
 '
