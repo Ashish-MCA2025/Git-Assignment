@@ -34,3 +34,6 @@ Screenshot added to screenshots Folder
 ## Task 5: Create and Resolve a Merge Conflict
 Screenshot added to screenshots folder
 named : task5.png , task5ii.png
+
+## Task 6 : Remotes and Push/Pull
+addes screenshot of code
