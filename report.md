@@ -30,3 +30,7 @@ Screenshot added to screenshots Folder
   feature-x
 * master
 '
+
+## Task 5: Create and Resolve a Merge Conflict
+Screenshot added to screenshots folder
+named : task5.png , task5ii.png
